@@ -1,0 +1,2 @@
+GL,bat,DR Smith,BB McCullum,SK Raina,KD Karthik,DJ Bravo,RA Jadeja,KP Faulkner,Ishan Kishan,P Kumar,DS Kulkarni,S Kaushik
+GL,bowl,P Kumar,DS Kulkarni,RA Jadeja,S Kaushik,JP Faulkner,DJ Bravo,P Kumar,DS Kulkarni,RA Jadeja,S Kaushik,JP Faulkner,DJ Bravo,P Kumar,DS Kulkarni,RA Jadeja,S Kaushik,JP Faulkner,DJ Bravo,RA Jadeja,S Kaushik

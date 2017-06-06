@@ -1,0 +1,2 @@
+DD,bat,MA Agarwal,Q de Kock,SS Iyer,KK Nair,SV Samson,P Negi,CR Brathwaite,CH Morris,NM Coulter-Nile,A Mishra,Z Khan
+DD,bowl,NM Coulter-Nile,Z Khan,NM Coulter-Nile,Z Khan,CH Morris,CR Brathwaite,A Mishra,CR Brathwaite,A Mishra,CH Morris,NM Coulter-Nile,CH Morris,NM Coulter-Nile,Z Khan,CH Morris,CR Brathwaite,A Mishra,Z Khan,A Mishra,CR Brathwaite

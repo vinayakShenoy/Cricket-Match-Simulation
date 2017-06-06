@@ -1,0 +1,2 @@
+KXIP,bat,HM Amla,M Vijay,WP Saha,Gurkeerat Singh,DA Miller,GJ Maxwell,MM Sharma,MP Stoinis,AR Patel,Sandeep Sharma,Anureet Singh
+KXIP,bowl,Sandeep Sharma,M Vijay,MM Sharma,Anureet Singh,MP Stoinis,GJ Maxwell,AP Patel

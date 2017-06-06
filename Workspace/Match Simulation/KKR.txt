@@ -1,0 +1,2 @@
+KKR,bat,RV Uthappa,G Gambhir,MK Pandey,AD Russel,YK Pathan,C Murro,SA Yadhav,UT Yadhav,JW Hastings,PP Chawla,GB Hogg
+KKR,bowl,AD Russel,UT Yadhav,AD Russel,JW Hastings,AD Russel,JW Hastings,UT Yadhav,C Munro,UT Yadhav,GB Hogg,PP Chawla,GB Hogg,PP Chawla,GB Hogg,PP Chawla,GB Hogg,PP Chawla,JW Hastings,AD Russel,UT Yadhav

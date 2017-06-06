@@ -1,0 +1,2 @@
+SRH,bat,DA Warner,S Dhawan,DJ Hooda,Yuvraj Singh,BCJ Cutting,NV Ojha,MC Henriques,KV Sharma,Mustafizur Rahman,A Nehra,B Kumar
+SRH,bowl,B Kumar,A Nehra,Mustafizur Rahman,BCJ Cutting,KV Sharma,MC Henriques,Yuvraj Singh

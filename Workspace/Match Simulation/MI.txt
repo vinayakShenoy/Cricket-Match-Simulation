@@ -1,0 +1,2 @@
+MI,bat,RG Sharma,PA Patel,AT Rayudu,N Rana,KA Pollard,JC Buttler,KH Pandya,HH Pandya,Harbhajan Singh,MJ McClenaghan,TG Southee
+MI,bowl,TG Southee,MJ McClenaghan,TG Southee,MJ McClenaghan,HH Pandya,KH Pandya,Harbhajan Singh,KA Pollard,KH Pandya,Harbhajan Singh,MJ McClenaghan,JJ Bumrah,KH Pandya,TG Southee,Harbhajan Singh,MJ McClenaghan,TG Southee,KA Pollard,JJ Bumrah,HH Pandya

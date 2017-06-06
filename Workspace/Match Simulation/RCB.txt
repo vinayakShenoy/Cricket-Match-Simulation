@@ -1,0 +1,2 @@
+RCB,bat,V Kohli,CH Gayle,AB de Villiers,KL Rahul,SR Watson,Sachin Baby,STR Binny,CJ Jordan,VR Aaron,S Arvind,YS Chahal
+RCB,bowl,STR Binny,S Arvind,STR Binny,S Arvind,CJ Jordan,SR Watson,YS Chahal,VR Aaron,CJ Jordan,SR Watson,S Arvind,STR Binny,CJ Jordan,YS Chahal,VR Aaron,YS Chahal,S Arvind,CJ Jordan,STR Binny,SR Watson
